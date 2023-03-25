@@ -1,0 +1,37 @@
+.file {
+    background-color: black;
+}
+
+.opening {
+    font-family: sans-serif;
+    font-weight: lighter;
+
+    color: rgb(90, 200, 170);
+}
+
+.heading {
+    font-family: sans-serif;
+    font-size: xx-large;
+    font-weight: lighter;
+
+    color: white;
+}
+
+.text {
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: ;
+
+    color: darkgray;
+}
+
+.button {
+    color: rgb(90, 200, 170);
+    background-color: black;
+    border-style: solid;
+    border-color: rgb(90, 200, 170);
+}
+
+#developer {
+    color: rgb(90, 200, 170);
+}
